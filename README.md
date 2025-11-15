@@ -1,71 +1,68 @@
-🧠 Competitive Programming — Daily Grind 🚀
+# 🧠 Competitive Programming — Daily Grind 🚀
 
-Welcome to my Daily CP Practice Repo!
-This repository is my personal commitment to consistent growth, daily discipline, and becoming a stronger problem solver.
+Welcome to my **Daily CP Practice Repo**!  
+This repository is my personal commitment to **consistent growth**, **daily discipline**, and becoming a stronger problem solver.
 
-Every day, I solve at least one CP problem and upload my solution here.
-Some days it’s easy. Some days it’s tough.
-But what matters is showing up every single day.
+Every day, I solve at least **one CP problem** and upload my solution here.  
+Some days it’s easy. Some days it’s tough.  
+But what matters is **showing up every single day**.
 
-💡 Why I’m Doing This
+---
 
-To build the habit of thinking logically under pressure
+## 💡 Why I’m Doing This
 
-To improve my DSA fundamentals
+- Build the habit of **thinking logically under pressure**
+- Improve my **DSA fundamentals**
+- Stay **consistent**, not just motivated
+- Prepare for **placements, coding contests, and real-world problem-solving**
+- Get **1% better every day**
 
-To stay consistent, not just motivated
+---
 
-To prepare for placements, contests, and real-world problem solving
+## 🚀 What This Repo Contains
 
-To get 1% better every day
+- Daily solutions from platforms like:
+  - **LeetCode**
+  - **Codeforces**
+  - **GeeksforGeeks**
+  - **AtCoder**
+  - and more!
+- Clean, structured solutions
+- Comments + explanations
+- My progress log
+- Notes from mistakes and learnings
 
-🚀 What This Repo Contains
+---
 
-Daily solutions from platforms like:
+## 🔥 My Rules (No Excuses Zone)
 
-LeetCode
+- **Solve at least 1 problem daily**
+- **Push the code on GitHub daily**
+- Even if it's a busy day → **do something**
+- If I fall behind → **catch up fast**
+- Slow improvement > Zero improvement
 
-Codeforces
+---
 
-GeeksforGeeks
+## 📅 Progress Tracker
 
-AtCoder
+I will maintain a daily log of problem uploads inside this repository  
+to visualize my consistency and keep myself accountable.
 
-and more!
+---
 
-Clean, structured solutions
+## 🧗‍♂️ Message to Myself
 
-Comments + explanations
+> **“Consistency beats intensity.  
+Your only competition is you from yesterday.  
+Just show up today — that’s enough to win.”**
 
-My progress log
+---
 
-Notes from mistakes and learnings
+## 💚 If You’re Reading This
 
-🔥 My Rules (No Excuses Zone)
+Thanks for checking out my journey!  
+Feel free to suggest improvements, share challenges, or start your own **daily CP grind**.
 
-Solve at least 1 problem daily
+**Let’s grow — one problem at a time. 🚀**
 
-Push the code on GitHub daily
-
-Even if it's a busy day → do something
-
-If I fall behind → catch up fast
-
-Slow improvement > Zero improvement
-
-📅 Progress Tracker
-
-I will maintain a log of daily uploads inside this repo to visualize improvement and keep myself accountable.
-
-🧗‍♂️ Message to Myself
-
-“Consistency beats intensity.
-Your only competition is you from yesterday.
-Just show up today — that’s enough to win.”
-
-💚 If You’re Reading This
-
-Thanks for checking out my journey!
-Feel free to suggest improvements, share challenges, or start your own daily CP grind.
-
-Let’s grow — one problem at a time. 🚀
